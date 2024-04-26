@@ -88,9 +88,11 @@ bool listEmpty() {
 		return true;
 	else
 		return false;
-
 }
 
+void traverse() {
+
+}
 int main()
 {
     std::cout << "Hello World!\n";
